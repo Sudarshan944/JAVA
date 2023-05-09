@@ -50,6 +50,9 @@ public static void main(String[] args) {
 	 * unchecked are considered to be recoverable
 	 * checked exception are able to be handled
 	 * IOException -> checked exception
+	 * try { }
+	 * catch { } -- handle the exception
 	 **/
+	
 }
 }
