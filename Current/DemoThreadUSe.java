@@ -7,6 +7,5 @@ public class DemoThreadUSe implements Runnable{
 	public void run() {
 		// TODO Auto-generated method stub
 		System.out.println("Implementing Runnable");
-	}
-	
+	}	
 }
